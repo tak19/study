@@ -16,4 +16,7 @@
 	
 	
 	
+  <modules>
+  	<module>p1</module>
+  </modules>
 </project>

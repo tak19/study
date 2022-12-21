@@ -1,4 +1,4 @@
-package prob05;
+package p2;
 
 import java.util.Random;
 import java.util.Scanner;

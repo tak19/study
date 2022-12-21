@@ -1,6 +1,8 @@
-package prob04;
+package p2;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 import java.util.ListIterator;
@@ -34,7 +36,6 @@ public class Prob04 {
 		
 		
 		// 값을 출력하기위한 ListIterator || get 출력
-		//tte
 		List<Character> list = new ArrayList<>();
 		char[] c = str.toCharArray();
 		for (char rr : c)

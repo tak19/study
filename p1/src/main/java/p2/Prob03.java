@@ -1,4 +1,4 @@
-package prob03;
+package p2;
 
 public class Prob03 {
 	public static void main(String args[]) {
